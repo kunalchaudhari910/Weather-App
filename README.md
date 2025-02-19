@@ -1,4 +1,4 @@
-# Demo Link : https://applicationweather-reactjs.netlify.app/
+## Live Link : https://applicationweather-reactjs.netlify.app/
 # Screeenshot: 
 ![Screenshot (213)](https://github.com/user-attachments/assets/6b601b0e-ce23-4c3d-99f4-66634d235b39)
 
